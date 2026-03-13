@@ -3,7 +3,7 @@ Interactive Sales Performance Dashboard built with Power BI for KPI tracking and
 
 ## Project Overview
 This dashboard analyzes sales performance including sales, profit, cost, and margin with YTD vs LY comparison.
-![Dashboard](photo_5816403738162302364_wpg)
+![Dashboard](photo_5816403738162302364_w.pg)
 
 ## Tools
 - Power BI
